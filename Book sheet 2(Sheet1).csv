@@ -26,31 +26,31 @@ Thur,none ,,,
 Fri,11:10,matcha,48,cafe
 Sat,8:10,coffee,96,home
 Sun,,none,,
-Mon,,coffee,96,
-Tue,10:30,redbull,80,
-Wed,11:00,matcha,48,
+Mon,,coffee,96,home
+Tue,10:30,redbull,80,cafe
+Wed,11:00,matcha,48,cafe
 Thur,,none ,,
-Fri,12:20,cofee,96,
-Sat,12:15,coffee,96,
-Sun,11:00,cofee,96,
-Mon,9:00,redbull,80,
-Tue,9:10,coffee,96,
-Wed,11:10,matcha,48,
-Thur,14:10,coffee,96,
-Fri,10:12,coffee,96,
-sat,12:15,coffee,96,
-Sun,11:10,redbull,80,
-Mon,9:29,coffee,96,
-Tue,8:23,redbull,80,
-Wed,12:11,coffee,96,
+Fri,12:20,cofee,96,home
+Sat,12:15,coffee,96,home
+Sun,11:00,cofee,96,home
+Mon,9:00,redbull,80,shop
+Tue,9:10,coffee,96,home
+Wed,11:10,matcha,48,cafe
+Thur,14:10,coffee,96,home
+Fri,10:12,coffee,96,home
+sat,12:15,coffee,96,home
+Sun,11:10,redbull,80,shop
+Mon,9:29,coffee,96,home
+Tue,8:23,redbull,80,shop
+Wed,12:11,coffee,96,home
 Thur,,none ,,
-Fri,10:21,mathca,48,
-Sat,8:04,mathca,48,
-Sun,9:10,redbull,80,
-Mon,10:12,redbull,80,
-Tue,11:45,coffee,96,
+Fri,10:21,mathca,48,cafe
+Sat,8:04,mathca,48,cafe
+Sun,9:10,redbull,80,shop
+Mon,10:12,redbull,80,shop
+Tue,11:45,coffee,96,home
 Wed,none ,,,
-Thur,14:10,coffee,96,
+Thur,14:10,coffee,96,home
 Fri,none ,,,
-Sat,9:15,mathca,48,
-Sun,10:12,redbull,80,
+Sat,9:15,mathca,48,cafe
+Sun,10:12,redbull,80,shop
